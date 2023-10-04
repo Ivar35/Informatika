@@ -31,7 +31,7 @@ while True:
         print("Nice job, congratilations.")
         break
     else :
-        print("Incorrect, try again.")"""
+        print("Incorrect, try again.")
 
 
 
@@ -53,7 +53,7 @@ elif favourite_teacher == "Turnovský" :
     print("Můj ne") 
 
 elif favourite_teacher == "Soulek" :
-    print("Můj tal¨ka třeba nao.") 
+    print("Můj tak třeba nao.") 
 
 else:
     print("Jseš magor")
